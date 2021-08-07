@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>AMEY THAKUR</title>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css">
+        <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css">   
+    </head>
+    <body class="bg-dark">
+        <div class="container">
+            <div class="row">
+                <div class='card' style="width: 100%; height:100%; margin-top:50px">
+                    <div class="card-header" style="text-align: center;">
+                        <h1>BANGLORE HOUSE PRICE PREDICTION</h1>
+                        <a href="{{url_for('index')}}"><span class="glyphicon glyphicon-home"></span></a>
+                    </div>
+                    <div class="card-body" style='text-align: center'>
+                        <div class="col-md-12" style="text-align: center;">
+                            <h2>ESTIMATED PRICE:</h2>
+                            <h3><span>{{result}}</span></h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> 
+    </body>
+</html>
+
