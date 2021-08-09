@@ -1,5 +1,8 @@
-# BANGALORE HOUSE PRICE PREDICTION 
+# BANGALORE HOUSE PRICE PREDICTION
  [Try the application](https://bangalorehousepriceprediction.herokuapp.com)
+ 
+ **This project is a part of my Training and Internship in Data Analytics, Machine Learning and AI using Python at Diginique TechLabs.**
+
 
   - [Model](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION/blob/main/BHPP/bangalore-house-price-prediction-model.ipynb)
 
