@@ -8,7 +8,7 @@
 
 ---
 
->WEB APP - https://bangalorehousepriceprediction.herokuapp.com
+>WEB APPLICATION - https://bangalorehousepriceprediction.herokuapp.com
 
 ![Banglore House Price Prediction 1](https://user-images.githubusercontent.com/54937357/128641386-cb5a6018-91f9-48f4-b685-2a2b2fc0ff8b.png)
 
