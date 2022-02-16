@@ -5,6 +5,8 @@
 
  - [Model](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION/blob/main/BHPP/bangalore-house-price-prediction-model.ipynb) | [Kaggle](https://www.kaggle.com/ameythakur20/bangalore-house-price-prediction-model)
 
+---
+
  **IIT ROPAR - Diginique Techlabs**
 
  >Data Science Machine Learning and AI using Python 
