@@ -4,6 +4,7 @@
  >**[Try The Web Application!](https://bangalorehousepriceprediction.herokuapp.com)**
  
  - [Model](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION/blob/main/BHPP/bangalore-house-price-prediction-model.ipynb) | [Kaggle](https://www.kaggle.com/ameythakur20/bangalore-house-price-prediction-model)
+ - [Presentation](https://www.youtube.com/watch?v=HaiXYHBPHVg&feature=youtu.be) 
 
 ---
 
