@@ -1,4 +1,5 @@
 # BANGALORE HOUSE PRICE PREDICTION
+
   👉🏻 **This project was a part of my Training and Internship in Data Analytics, Machine Learning and AI using Python conducted by Advitiya IIT Ropar and  Diginique TechLabs.**
   
  >**[Try The Web Application!](https://bangalorehousepriceprediction.herokuapp.com)**
