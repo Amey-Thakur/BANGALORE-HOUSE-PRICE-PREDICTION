@@ -38,4 +38,4 @@
 
 <p align="center"> <b> 👉🏻 Presented as a part of the Internship @ Advitiya IIT Ropar and Diginique TechLabs 👈🏻 <b> </p>
  
-<p align="center"><a href='https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION', style='color: greenyellow;'> ✌🏻 Back To Repository ✌🏻</p>
+<p align="center"><a href='https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION', style='color: greenyellow;'> ✌🏻 Back To Repository ✌🏻</p> 
