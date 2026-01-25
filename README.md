@@ -17,7 +17,22 @@
 - **Languages:** Python 3.x
 - **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn, Flask
 - **Environment:** Jupyter Notebook, Kaggle
-- **Deployment:** Heroku
+- **Deployment:** Heroku, Hugging Face Spaces (Docker)
+
+## ☁️ Deployment
+
+### Hugging Face Spaces (Docker)
+This project is configured for deployment on **Hugging Face Spaces** using the Docker SDK.
+
+1.  Create a new Space on [Hugging Face](https://huggingface.co/new-space).
+2.  Select **Docker** as the Space SDK.
+3.  Choose **Blank** to start from a fresh template.
+4.  Push the contents of the `Source Code` folder to the root of your Space's repository.
+    *   *Note: Ensure the `Dockerfile` is at the root of the Space.*
+
+### Heroku
+Legacy support is provided via the `Procfile` for Heroku deployment.
+
 
 ## 📂 Project Structure
 ```text
@@ -81,4 +96,3 @@ The project uses the **Bengaluru House Price Data** from Kaggle.
 <p align="center"> <b> 👉🏻 Presented as a part of the Internship @ Advitiya IIT Ropar and Diginique TechLabs </b> </p>
 
 <p align="center"><a href='https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION' style='color: greenyellow;'> ✌🏻 Back To Repository ✌🏻 </a></p>
- 
