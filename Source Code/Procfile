@@ -1,2 +1,5 @@
+# Project: Bangalore House Price Prediction
+# Authors: Amey Thakur & Mega Satish
+# Release Date: August 7, 2021
 web: gunicorn app:app
 
