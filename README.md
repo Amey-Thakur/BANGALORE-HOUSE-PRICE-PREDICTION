@@ -22,12 +22,13 @@
 ## 📂 Project Structure
 ```text
 ├── .git/                                # Git configuration
-├── BHPP/                                # Source code and model files
+├── Source Code/                         # Flask app, Model, and Notebooks
 │   ├── app.py                           # Flask application backend
 │   ├── templates/                       # HTML templates for the web app
 │   ├── bangalore_home_prices_model.pickle # Trained ML model
 │   ├── columns.json                    # Feature columns for inference
 │   └── ...                             
+├── BHPP/                                # Project Documents (Report, Letters)
 ├── IIT ROPAR - Diginique Techlabs/      # Achievement documents and letters
 ├── README.md                            # Project documentation
 └── ...
@@ -80,4 +81,3 @@ The project uses the **Bengaluru House Price Data** from Kaggle.
 <p align="center"> <b> 👉🏻 Presented as a part of the Internship @ Advitiya IIT Ropar and Diginique TechLabs </b> </p>
 
 <p align="center"><a href='https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION' style='color: greenyellow;'> ✌🏻 Back To Repository ✌🏻 </a></p>
- 
