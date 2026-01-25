@@ -8,7 +8,7 @@ app = Flask(__name__)
 
 __locations = None
 __data_columns = None
-model = pickle.load(open('banglore_home_prices_model.pickle','rb'))
+model = pickle.load(open('bangalore_home_prices_model.pickle','rb'))
 
 f = open('columns.json')
 __data_columns = json.loads(f.read())['data_columns']
