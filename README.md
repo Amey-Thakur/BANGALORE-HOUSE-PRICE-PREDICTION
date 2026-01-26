@@ -18,7 +18,7 @@
 
 <div align="center">
 
-  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Results](#results) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -139,6 +139,35 @@ BANGALORE-HOUSE-PRICE-PREDICTION/
 
 ---
 
+<!-- RESULTS -->
+<a name="results"></a>
+## Results
+
+<div align="center">
+  <b>1. User Interface: Home Page</b>
+  <br>
+  <i>Clean and intuitive web interface for property parameters.</i>
+  <br><br>
+  <img src="Screenshots/01-Home.png" alt="Home Page" width="70%">
+  <br><br>
+
+  <b>2. Prediction Input: Feature Selection</b>
+  <br>
+  <i>User selection of Location, SQFT, BHK, and Bathrooms.</i>
+  <br><br>
+  <img src="Screenshots/02-Input.png" alt="Prediction Input" width="70%">
+  <br><br>
+
+  <b>3. Estimation Result: Price Prediction</b>
+  <br>
+  <i>Real-time price estimation based on the trained regression model.</i>
+  <br><br>
+  <img src="Screenshots/03-Result.png" alt="Price Result" width="70%">
+  <br><br>
+</div>
+
+---
+
 <!-- QUICK START -->
 <a name="quick-start"></a>
 ## Quick Start
@@ -210,7 +239,7 @@ Special thanks to the **mentors at IIT ROPAR - Diginique Techlabs** for providin
 
   [↑ Back to Top](#readme-top)
 
-  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Results](#results) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
   <br>
 
