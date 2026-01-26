@@ -189,6 +189,9 @@ Establish the local environment by cloning the repository and installing the com
 git clone https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION.git
 cd BANGALORE-HOUSE-PRICE-PREDICTION
 
+# Navigate to Source Code directory
+cd "Source Code"
+
 # Install dependencies
 pip install pandas numpy matplotlib scikit-learn flask
 ```
@@ -196,8 +199,9 @@ pip install pandas numpy matplotlib scikit-learn flask
 ### 3. Execution
 Launch the web server to start the prediction application:
 ```bash
-python server/server.py
+python app.py
 ```
+**Access**: `http://127.0.0.1:5000/`
 
 ---
 
