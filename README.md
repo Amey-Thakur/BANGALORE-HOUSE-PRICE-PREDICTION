@@ -181,7 +181,7 @@ This academic submission, developed for the **Summer Internship** at **IIT ROPAR
 > [!NOTE]
 > **Summary**: You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original authors.
 
-**Copyright (C) 2021 Amey Thakur & Mega Satish**
+**Copyright © 2021 Amey Thakur & Mega Satish**
 
 ---
 
