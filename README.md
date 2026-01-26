@@ -3,7 +3,7 @@
   <a name="readme-top"></a>
   # Bangalore House Price Prediction
   
-  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
   ![Status](https://img.shields.io/badge/Status-Completed-success)
   [![Technology](https://img.shields.io/badge/Technology-Python%20%7C%20Machine%20Learning-blueviolet)](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION)
   [![Developed by Amey Thakur & Mega Satish](https://img.shields.io/badge/Developed%20by-Amey%20Thakur%20%26%20Mega%20Satish-blue.svg)](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION)
@@ -34,6 +34,12 @@
   | :---: | :---: |
 
 </div>
+
+---
+
+> [!IMPORTANT]
+> ### 🤝🏻 Special Acknowledgement
+> > *Special thanks to **[Mega Satish](https://github.com/msatmod)** for her meaningful contributions, guidance, and support that helped shape this work.*
 
 ---
 
@@ -163,8 +169,8 @@ This academic submission, developed for the **Summer Internship** at **IIT ROPAR
 
 **Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur) & [Mega Satish](https://github.com/msatmod)  
 **Role**: Summer Interns  
-**Organization**: [IIT ROPAR - Diginique Techlabs](http://www.diginique.com/)  
-**Release Date**: July 1, 2021
+**Program**: Summer Internship  
+**Organization**: [IIT ROPAR - Diginique Techlabs](http://www.diginique.com/)
 
 This project features **Bangalore House Price Prediction**, a machine learning study conducted as part of an industrial internship. It explores the practical application of regression analysis in real estate economics.
 
@@ -172,7 +178,7 @@ This project features **Bangalore House Price Prediction**, a machine learning s
 
 ### Acknowledgments
 
-Grateful acknowledgment to [**Mega Satish**](https://github.com/msatmod) for her exceptional collaboration and scholarly partnership during the execution of this internship task. Her analytical precision and constant support were instrumental in refining the predictive algorithms used in this study.
+Grateful acknowledgment to [**Mega Satish**](https://github.com/msatmod) for her exceptional collaboration and scholarly partnership during the execution of this machine learning internship task. Her analytical precision, deep understanding of statistical modeling, and constant support were instrumental in refining the predictive algorithms used in this study. Working alongside her was a transformative experience; her thoughtful approach to problem-solving and steady encouragement turned complex regression challenges into meaningful learning moments. This work reflects the growth and insights gained from our side-by-side academic journey. Thank you, Mega, for everything you shared and taught along the way.
 
 Special thanks to the **mentors at IIT ROPAR - Diginique Techlabs** for providing this platform for rapid skill development and industrial exposure.
 
