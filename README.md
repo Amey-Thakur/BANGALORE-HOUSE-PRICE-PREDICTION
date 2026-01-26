@@ -10,7 +10,7 @@
 
   A machine learning study demonstrating the application of **Multivariate Regression** algorithms to estimate real estate prices with high precision based on structural parameters.
   
-  **[Source Code](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION/tree/main/Source%20Code)** &nbsp;·&nbsp; **[Kaggle Notebook](https://www.kaggle.com/code/ameythakur20/bangalore-house-price-prediction-model)** &nbsp;·&nbsp; **[Project Report](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION/blob/main/BHPP/AMEY%20THAKUR%20-%20BANGALORE%20HOUSE%20PRICE%20PREDICTION.pdf)** &nbsp;·&nbsp; **[Live Demo](http://www.diginique.com/)**
+  **[Source Code](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION/tree/main/Source%20Code)** &nbsp;·&nbsp; **[Kaggle Notebook](https://www.kaggle.com/code/ameythakur20/bangalore-house-price-prediction-model)** &nbsp;·&nbsp; **[Project Report](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION/blob/main/BHPP/AMEY%20THAKUR%20-%20BANGALORE%20HOUSE%20PRICE%20PREDICTION.pdf)** &nbsp;·&nbsp; **[Live Demo](https://huggingface.co/spaces/ameythakur/Bangalore-House-Price-Prediction)**
 
 </div>
 
@@ -247,7 +247,7 @@ Special thanks to the **mentors at IIT ROPAR - Diginique Techlabs** for providin
 
   <br>
 
-  📈 **[BANGALORE-HOUSE-PRICE-PREDICTION](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION)**
+  📈 **[BANGALORE-HOUSE-PRICE-PREDICTION](https://huggingface.co/spaces/ameythakur/Bangalore-House-Price-Prediction)**
 
   ---
 
