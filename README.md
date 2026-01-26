@@ -14,7 +14,9 @@
 
   <br><br>
   
-  [![Video Demo](https://img.youtube.com/vi/HaiXYHBPHVg/maxresdefault.jpg)](https://youtu.be/HaiXYHBPHVg)
+  <a href="https://youtu.be/HaiXYHBPHVg">
+    <img src="https://img.youtube.com/vi/HaiXYHBPHVg/maxresdefault.jpg" alt="Video Demo" width="70%">
+  </a>
 
 </div>
 
