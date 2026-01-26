@@ -10,7 +10,7 @@
 
   A machine learning study demonstrating the application of **Multivariate Regression** algorithms to estimate real estate prices with high precision based on structural parameters.
   
-  **[Source Code](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION/tree/main/Source%20Code)** &nbsp;·&nbsp; **[Project Report](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION/blob/main/BHPP/AMEY%20THAKUR%20-%20BANGALORE%20HOUSE%20PRICE%20PREDICTION.pdf)** &nbsp;·&nbsp; **[Live Demo](http://www.diginique.com/)**
+  **[Source Code](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION/tree/main/Source%20Code)** &nbsp;·&nbsp; **[Kaggle Notebook](https://www.kaggle.com/code/ameythakur20/bangalore-house-price-prediction-model)** &nbsp;·&nbsp; **[Project Report](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION/blob/main/BHPP/AMEY%20THAKUR%20-%20BANGALORE%20HOUSE%20PRICE%20PREDICTION.pdf)** &nbsp;·&nbsp; **[Live Demo](http://www.diginique.com/)**
 
 </div>
 
@@ -69,9 +69,11 @@ The analysis is governed by strict **exploratory and modeling principles** ensur
 | # | Resource | Description | Date |
 | :---: | :--- | :--- | :--- |
 | 1 | [**Source Code**](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION/tree/main/Source%20Code) | Complete production repository and weights | — |
-| 2 | [**Technical Specification**](docs/SPECIFICATION.md) | System architecture and specifications | — |
-| 3 | [**Technical Report**](BHPP/AMEY%20THAKUR%20-%20BANGALORE%20HOUSE%20PRICE%20PREDICTION.pdf) | Comprehensive archival project documentation | September 2021 |
-| 4 | [**Publication Certificate**](Research%20Paper/IRJET%20-%20Bangalore%20House%20Price%20Prediction.jpg) | Recognition for research excellence | September 2021 |
+| 2 | [**Kaggle Notebook**](https://www.kaggle.com/code/ameythakur20/bangalore-house-price-prediction-model) | Interactive Jupyter notebook for model training | — |
+| 3 | [**Dataset**](https://www.kaggle.com/datasets/ameythakur20/bangalore-house-prices/) | Curated Bangalore real estate market dataset | — |
+| 4 | [**Technical Specification**](docs/SPECIFICATION.md) | System architecture and specifications | — |
+| 5 | [**Technical Report**](BHPP/AMEY%20THAKUR%20-%20BANGALORE%20HOUSE%20PRICE%20PREDICTION.pdf) | Comprehensive archival project documentation | September 2021 |
+| 6 | [**Publication Certificate**](Research%20Paper/IRJET%20-%20Bangalore%20House%20Price%20Prediction.jpg) | Recognition for research excellence | September 2021 |
 
 > [!TIP]
 > ### Model Retraining & Market Adaptation
