@@ -36,10 +36,9 @@
 </div>
 
 
-
 > [!IMPORTANT]
 > ### 🤝🏻 Special Acknowledgement
-> > *Special thanks to **[Mega Satish](https://github.com/msatmod)** for her meaningful contributions, guidance, and support that helped shape this work.*
+> *Special thanks to **[Mega Satish](https://github.com/msatmod)** for her meaningful contributions, guidance, and support that helped shape this work.*
 
 ---
 
