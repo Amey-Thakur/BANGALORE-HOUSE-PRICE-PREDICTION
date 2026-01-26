@@ -3,10 +3,10 @@
   <a name="readme-top"></a>
   # Bangalore House Price Prediction
   
-  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-lightgrey.svg)](LICENSE)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
   ![Status](https://img.shields.io/badge/Status-Completed-success)
   [![Technology](https://img.shields.io/badge/Technology-Python%20%7C%20Machine%20Learning-blueviolet)](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION)
-  [![Developed by Amey Thakur](https://img.shields.io/badge/Developed%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION)
+  [![Developed by Amey Thakur & Mega Satish](https://img.shields.io/badge/Developed%20by-Amey%20Thakur%20%26%20Mega%20Satish-blue.svg)](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION)
 
   A machine learning study demonstrating the application of **Multivariate Regression** algorithms to estimate real estate prices with high precision based on structural parameters.
   
@@ -104,7 +104,7 @@ BANGALORE-HOUSE-PRICE-PREDICTION/
 ├── .gitignore                                       # Repository Filters
 ├── CITATION.cff                                     # Scholarly Citation Metadata
 ├── codemeta.json                                    # Machine-Readable Project Metadata
-├── LICENSE                                          # GNU General Public License v3.0
+├── LICENSE                                          # MIT License Terms
 ├── README.md                                        # Project Documentation
 └── SECURITY.md                                      # Security Policy
 ```
@@ -148,10 +148,10 @@ python server/server.py
 <a name="license"></a>
 ## License
 
-This academic submission, developed for the **Summer Internship** at **IIT ROPAR - Diginique Techlabs**, is made available under the **GNU General Public License v3.0**. See the [LICENSE](LICENSE) file for complete terms.
+This academic submission, developed for the **Summer Internship** at **IIT ROPAR - Diginique Techlabs**, is made available under the **MIT License**. See the [LICENSE](LICENSE) file for complete terms.
 
 > [!NOTE]
-> **Summary**: You are free to copy, distribute, and modify this work, provided that you include the original copyright notice and make your modifications available under the same GPL v3.0 license.
+> **Summary**: You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original authors.
 
 **Copyright (C) 2021 Amey Thakur & Mega Satish**
 
