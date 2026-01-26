@@ -119,20 +119,41 @@ The analysis is governed by strict **exploratory and modeling principles** ensur
 ```python
 BANGALORE-HOUSE-PRICE-PREDICTION/
 │
+├── BHPP/                                            # Internship Artifacts
+│   ├── AMEY THAKUR - BANGALORE HOUSE PRICE...pdf    # Final Project Report
+│   └── ...                                          # Internship Completion Documents
+│
 ├── docs/                                            # Technical Documentation
 │   └── SPECIFICATION.md                             # Architecture & Design Specification
 │
-├── IIT ROPAR - Diginique Techlabs/                  # Internship Artifacts
-│   ├── Project Report.pdf                           # Final Project Report
-│   └── ...                                          # Internship Completion Documents
+├── Mega/                                            # Archival Attribution Assets
+│   ├── Filly.jpg                                    # Companion (Filly)
+│   ├── Mega.png                                     # Author Profile Image (Mega Satish)
+│   └── ...                                          # Additional Attribution Files
 │
-├── Mega/                                            # Collaborative Workspace
-│   └── ...                                          # Research & Development resources
+├── Research Paper/                                  # Research Paper & Resources
+│   ├── Draft/                                       # Draft Versions
+│   ├── Figures/                                     # Figures & Illustrations
+│   ├── IRJET - Bangalore House Price...jpg          # Publication Certificate
+│   └── IRJET-V8I9 - Bangalore House Price...pdf     # Research Paper (IRJET)
+│
+├── Screenshots/                                     # Application Screenshots
+│   ├── 01-Home.png                                  # Home Page
+│   ├── 02-Input.png                                 # Input Interface
+│   └── 03-Result.png                                # Prediction Result
 │
 ├── Source Code/                                     # Core Implementation
-│   ├── client/                                      # Frontend UI (HTML/CSS/JS)
-│   ├── server/                                      # Backend API (Flask)
-│   └── model/                                       # Trained Model (Pickle)
+│   ├── templates/                                   # HTML Templates
+│   │   ├── index.html                               # Home Page
+│   │   └── predict.html                             # Result Page
+│   │
+│   ├── app.py                                       # Flask Application
+│   ├── bangalore-house-price-prediction...ipynb     # Jupyter Notebook
+│   ├── bangalore_home_prices_model.pickle           # Trained Model
+│   ├── columns.json                                 # Feature Columns
+│   ├── model_training.py                            # Training Script
+│   ├── requirements.txt                             # Dependencies
+│   └── test_model.py                                # Test Script
 │
 ├── .gitattributes                                   # Git configuration
 ├── .gitignore                                       # Repository Filters
