@@ -12,7 +12,7 @@
   
   **[Source Code](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION/tree/main/Source%20Code)** &nbsp;·&nbsp; **[Kaggle Notebook](https://www.kaggle.com/code/ameythakur20/bangalore-house-price-prediction-model)** &nbsp;·&nbsp; **[Video Demo](https://youtu.be/HaiXYHBPHVg)** &nbsp;·&nbsp; **[Live Demo](https://huggingface.co/spaces/ameythakur/Bangalore-House-Price-Prediction)**
 
-  <br><br>
+  <br>
   
   <a href="https://youtu.be/HaiXYHBPHVg">
     <img src="https://img.youtube.com/vi/HaiXYHBPHVg/maxresdefault.jpg" alt="Video Demo" width="70%">
