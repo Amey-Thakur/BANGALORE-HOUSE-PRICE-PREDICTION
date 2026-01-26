@@ -56,6 +56,23 @@ The analysis is governed by strict **exploratory and modeling principles** ensur
 *   **Outlier Detection**: Statistical removal of anomalies to ensure robust training boundaries.
 *   **Model Selection**: Comparative analysis of Lasso, Ridge, and Linear Regression to minimize Root Mean Squared Error (RMSE).
 
+> [!NOTE]
+> ### Research Impact & Certification
+> This project was published as a research paper in the **International Research Journal of Engineering and Technology (IRJET)** (Volume 8, Issue 9) and is also available as a preprint on **viXra**. The project received an official **Publication Certificate** for its research contribution to machine learning education.
+>
+> *   [Preprint @viXra](https://vixra.org/abs/2110.0026)
+> *   [Published Paper @IRJET](https://www.irjet.net/archives/V8/i9/IRJET-V8I934.pdf)
+> *   [Publication Certificate](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION/blob/main/Research%20Paper/IRJET%20-%20Bangalore%20House%20Price%20Prediction.jpg)
+
+### Resources
+
+| # | Resource | Description | Date | Marks |
+| :---: | :--- | :--- | :--- | :--- |
+| 1 | [**Source Code**](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION/tree/main/Source%20Code) | Complete production repository and weights | — | — |
+| 2 | [**Technical Specification**](docs/SPECIFICATION.md) | System architecture and specifications | — | — |
+| 3 | [**Technical Report**](BHPP/AMEY%20THAKUR%20-%20BANGALORE%20HOUSE%20PRICE%20PREDICTION.pdf) | Comprehensive archival project documentation | September 2021 | — |
+| 4 | [**Publication Certificate**](Research%20Paper/IRJET%20-%20Bangalore%20House%20Price%20Prediction.jpg) | Recognition for research excellence | September 2021 | — |
+
 ---
 
 <!-- FEATURES -->
