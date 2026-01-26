@@ -1,98 +1,203 @@
-# BANGALORE HOUSE PRICE PREDICTION
+<div align="center">
 
-👉🏻 **This project was a part of my Training and Internship in Data Analytics, Machine Learning and AI using Python conducted by Advitiya IIT Ropar and Diginique TechLabs.**
+  <a name="readme-top"></a>
+  # Bangalore House Price Prediction
+  
+  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-lightgrey.svg)](LICENSE)
+  ![Status](https://img.shields.io/badge/Status-Completed-success)
+  [![Technology](https://img.shields.io/badge/Technology-Python%20%7C%20Machine%20Learning-blueviolet)](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION)
+  [![Developed by Amey Thakur](https://img.shields.io/badge/Developed%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION)
 
-> [!TIP]
-> **[Try The Web Application!](https://bangalorehousepriceprediction.herokuapp.com)**
+  A machine learning study demonstrating the application of **Multivariate Regression** algorithms to estimate real estate prices with high precision based on structural parameters.
+  
+  **[Source Code](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION/tree/main/Source%20Code)** &nbsp;·&nbsp; **[Project Report](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION/blob/main/IIT%20ROPAR%20-%20Diginique%20Techlabs/Project%20Report.pdf)** &nbsp;·&nbsp; **[Live Demo](http://www.diginique.com/)**
+
+</div>
 
 ---
 
-## 🛠️ Features
-- **Data Cleaning and Preprocessing:** Handling missing values, outliers, and feature scaling for the Bangalore housing dataset.
-- **Machine Learning Model:** Linear Regression and other models used to predict property prices based on location, square footage, and BHK.
-- **Interactive Web App:** A Flask-based web interface to get instant price estimations.
-- **Dataset Analysis:** In-depth exploration of features influencing property rates in different Bangalore localities.
+<div align="center">
 
-## 💻 Tech Stack
-- **Languages:** Python 3.x
-- **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn, Flask
-- **Environment:** Jupyter Notebook, Kaggle
-- **Deployment:** Heroku, Hugging Face Spaces (Docker)
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
-## ☁️ Deployment
+</div>
 
-### Hugging Face Spaces (Docker)
-This project is configured for deployment on **Hugging Face Spaces** using the Docker SDK.
+---
 
-1.  Create a new Space on [Hugging Face](https://huggingface.co/new-space).
-2.  Select **Docker** as the Space SDK.
-3.  Choose **Blank** to start from a fresh template.
-4.  Push the contents of the `Source Code` folder to the root of your Space's repository.
-    *   *Note: Ensure the `Dockerfile` is at the root of the Space.*
+<!-- AUTHORS -->
+<div align="center">
 
-### Heroku
-Legacy support is provided via the `Procfile` for Heroku deployment.
+  <a name="authors"></a>
+  ## Authors
 
+  | <a href="https://github.com/Amey-Thakur"><img src="https://github.com/Amey-Thakur.png" width="150" height="150" alt="Amey Thakur"></a><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-green.svg)](https://orcid.org/0000-0001-5644-1575) | <a href="https://github.com/msatmod"><img src="https://github.com/msatmod.png" width="150" height="150" alt="Mega Satish"></a><br>[**Mega Satish**](https://github.com/msatmod)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1844--9557-green.svg)](https://orcid.org/0000-0002-1844-9557) |
+  | :---: | :---: |
 
-## 📂 Project Structure
-```text
-├── .git/                                # Git configuration
-├── Source Code/                         # Flask app, Model, and Notebooks
-│   ├── app.py                           # Flask application backend
-│   ├── templates/                       # HTML templates for the web app
-│   ├── bangalore_home_prices_model.pickle # Trained ML model
-│   ├── columns.json                    # Feature columns for inference
-│   └── ...                             
-├── BHPP/                                # Project Documents (Report, Letters)
-├── IIT ROPAR - Diginique Techlabs/      # Achievement documents and letters
-├── README.md                            # Project documentation
-└── ...
+</div>
+
+---
+
+<!-- OVERVIEW -->
+<a name="overview"></a>
+## Overview
+
+**Bangalore House Price Prediction** is a machine learning study conducted as part of the **Summer Internship** at **IIT ROPAR - Diginique Techlabs**. The project focuses on the development of a robust regression model capable of predicting property prices in Bangalore with high accuracy.
+
+By leveraging **Scikit-learn**, the system models the real estate landscape where an algorithm learns the relationship between independent variables (Location, Sqft, BHK) and the dependent variable (Price). The model is served via a **Flask** web server for real-time estimation.
+
+### Computational Objectives
+The analysis is governed by strict **exploratory and modeling principles** ensuring algorithmic validity:
+*   **Dimensionality Reduction**: Handling high-cardinality categorical data (Location) to improve model performance.
+*   **Outlier Detection**: Statistical removal of anomalies to ensure robust training boundaries.
+*   **Model Selection**: Comparative analysis of Lasso, Ridge, and Linear Regression to minimize Root Mean Squared Error (RMSE).
+
+---
+
+<!-- FEATURES -->
+<a name="features"></a>
+## Features
+
+| Component | Technical Description |
+|-----------|-----------------------|
+| **Data Cleaning** | Automated pipeline for handling missing values and removing logical inconsistencies. |
+| **Feature Engineering** | Transformation of categorical features using One-Hot Encoding and reduction of rare labels. |
+| **Regression Logic** | Implementation of **Linear/Lasso/Ridge** algorithms for price approximation. |
+| **Model Persistence** | Serialization of the trained model using **Pickle** for deployment. |
+| **Web Interface** | User-friendly UI built with **HTML/CSS/JS** and served via **Flask**. |
+
+> [!NOTE]
+> ### Empirical Context
+> The real estate dataset consists of diverse property attributes. The inherent variance in property valuations justifies the selection of a robust regression approach over simple linear models, adhering to the requirement for accurate price estimation in a dynamic market.
+
+### Tech Stack
+-   **Runtime**: Python 3.x
+-   **Machine Learning**: Scikit-learn
+-   **Data Manipulation**: Pandas, NumPy
+-   **Visualization**: Matplotlib
+-   **Web Framework**: Flask
+
+---
+
+<!-- STRUCTURE -->
+<a name="project-structure"></a>
+## Project Structure
+
+```python
+BANGALORE-HOUSE-PRICE-PREDICTION/
+│
+├── docs/                                            # Technical Documentation
+│   └── SPECIFICATION.md                             # Architecture & Design Specification
+│
+├── IIT ROPAR - Diginique Techlabs/                  # Internship Artifacts
+│   ├── Project Report.pdf                           # Final Project Report
+│   └── ...                                          # Internship Completion Documents
+│
+├── Mega/                                            # Collaborative Workspace
+│   └── ...                                          # Research & Development resources
+│
+├── Source Code/                                     # Core Implementation
+│   ├── client/                                      # Frontend UI (HTML/CSS/JS)
+│   ├── server/                                      # Backend API (Flask)
+│   └── model/                                       # Trained Model (Pickle)
+│
+├── .gitattributes                                   # Git configuration
+├── .gitignore                                       # Repository Filters
+├── CITATION.cff                                     # Scholarly Citation Metadata
+├── codemeta.json                                    # Machine-Readable Project Metadata
+├── LICENSE                                          # GNU General Public License v3.0
+├── README.md                                        # Project Documentation
+└── SECURITY.md                                      # Security Policy
 ```
 
-## 🚀 Installation & Setup
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION.git
-   cd BANGALORE-HOUSE-PRICE-PREDICTION
-   ```
-2. **Create a Virtual Environment:**
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
-3. **Install Dependencies:**
-   ```bash
-   pip install -r BHPP/requirements.txt
-   ```
+---
 
-## 📊 Dataset Information
-The project uses the **Bengaluru House Price Data** from Kaggle.
-- **Source:** [Kaggle Dataset](https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data)
+<!-- QUICK START -->
+<a name="quick-start"></a>
+## Quick Start
+
+### 1. Prerequisites
+-   **Python 3.7+**: Required for runtime execution. [Download Python](https://www.python.org/downloads/)
+-   **Jupyter Environment**: For interactive model training.
+
+> [!WARNING]
+> **Data Integrity**
+>
+> The prediction kernel depends on specific feature ordering. Ensure that the input vector passed to the model matches the feature columns generated during training (One-Hot Encoded locations).
+
+### 2. Installation
+Establish the local environment by cloning the repository and installing the computational stack:
+
+```bash
+# Clone the repository
+git clone https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION.git
+cd BANGALORE-HOUSE-PRICE-PREDICTION
+
+# Install dependencies
+pip install pandas numpy matplotlib scikit-learn flask
+```
+
+### 3. Execution
+Launch the web server to start the prediction application:
+```bash
+python server/server.py
+```
 
 ---
 
-## 🔗 Project Resources
-- **Model Notebook:** [Jupyter Notebook](./BHPP/bangalore-house-price-prediction-model.ipynb)
-- **Kaggle Notebook:** [View on Kaggle](https://www.kaggle.com/ameythakur20/bangalore-house-price-prediction-model)
-- **Project Demo:** [YouTube Video](https://www.youtube.com/watch?v=HaiXYHBPHVg)
+<!-- LICENSE -->
+<a name="license"></a>
+## License
+
+This academic submission, developed for the **Summer Internship** at **IIT ROPAR - Diginique Techlabs**, is made available under the **GNU General Public License v3.0**. See the [LICENSE](LICENSE) file for complete terms.
+
+> [!NOTE]
+> **Summary**: You are free to copy, distribute, and modify this work, provided that you include the original copyright notice and make your modifications available under the same GPL v3.0 license.
+
+**Copyright (C) 2021 Amey Thakur & Mega Satish**
 
 ---
 
-## 🛡️ Disclosures & Disclaimer
-> [!IMPORTANT]
-> **Educational Use Only:** This model is built for academic and demonstration purposes. Real estate prices are subject to numerous market factors not captured in this dataset.
+<!-- ABOUT -->
+<a name="about-this-repository"></a>
+## About This Repository
 
-**Affiliation:** This project was developed during the Internship Training conducted by **Advitiya IIT Ropar** and **Diginique TechLabs**.
+**Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur) & [Mega Satish](https://github.com/msatmod)  
+**Role**: Summer Interns  
+**Organization**: [IIT ROPAR - Diginique Techlabs](http://www.diginique.com/)  
+**Release Date**: July 1, 2021
 
-## 📜 Certifications & Acknowledgments
-- **Accomplishments (Local Files):**
-  - [Internship Training Certificate](./IIT%20ROPAR%20-%20Diginique%20Techlabs/IIT%20ROPAR%20-%20Diginique%20Techlabs%20-%20Data%20Science%20Machine%20Learning%20and%20AI%20using%20Python%20-%20Training.pdf)
-  - [Internship Completion Letter](./IIT%20ROPAR%20-%20Diginique%20Techlabs/IIT%20ROPAR%20-%20Diginique%20Techlabs%20-%20Data%20Science%20Machine%20Learning%20and%20AI%20using%20Python%20-%20Internship%20Completion%20Letter.pdf)
-  - [Project Completion Letter](./IIT%20ROPAR%20-%20Diginique%20Techlabs/IIT%20ROPAR%20-%20Diginique%20Techlabs%20-%20Data%20Science%20Machine%20Learning%20and%20AI%20using%20Python%20-%20Project%20Completion%20Letter.pdf)
-  - [Letter of Recommendation](./IIT%20ROPAR%20-%20Diginique%20Techlabs/IIT%20ROPAR%20-%20Diginique%20Techlabs%20-%20Data%20Science%20Machine%20Learning%20and%20AI%20using%20Python%20-%20Letter%20of%20Recommendation.pdf)
+This project features **Bangalore House Price Prediction**, a machine learning study conducted as part of an industrial internship. It explores the practical application of regression analysis in real estate economics.
+
+**Connect:** [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
+
+### Acknowledgments
+
+Grateful acknowledgment to [**Mega Satish**](https://github.com/msatmod) for her exceptional collaboration and scholarly partnership during the execution of this internship task. Her analytical precision and constant support were instrumental in refining the predictive algorithms used in this study.
+
+Special thanks to the **mentors at IIT ROPAR - Diginique Techlabs** for providing this platform for rapid skill development and industrial exposure.
 
 ---
 
-<p align="center"> <b> 👉🏻 Presented as a part of the Internship @ Advitiya IIT Ropar and Diginique TechLabs </b> </p>
+<div align="center">
 
-<p align="center"><a href='https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION' style='color: greenyellow;'> ✌🏻 Back To Repository ✌🏻 </a></p>
+  [↑ Back to Top](#readme-top)
+
+  [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+
+  <br>
+
+  📈 **[BANGALORE-HOUSE-PRICE-PREDICTION](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION)**
+
+  ---
+
+  ### Presented as part of the Summer Internship @ IIT ROPAR - Diginique Techlabs
+
+  ---
+
+  ### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
+
+  **Computer Engineering (B.E.) - University of Mumbai**
+
+  *Semester-wise curriculum, laboratories, projects, and academic notes.*
+
+</div>

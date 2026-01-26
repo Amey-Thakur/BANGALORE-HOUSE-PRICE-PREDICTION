@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this Data Science internship project or its associated academic materials, please cite them as below."
+message: "If you use this Machine Learning internship project or its associated academic materials, please cite them as below."
 authors:
 - family-names: "Thakur"
   given-names: "Amey"
@@ -9,5 +9,5 @@ authors:
   orcid: "https://orcid.org/0000-0002-1844-9557"
 title: "BANGALORE HOUSE PRICE PREDICTION"
 version: 1.0.0
-date-released: 2021-08-07
+date-released: 2021-07-01
 url: "https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION"

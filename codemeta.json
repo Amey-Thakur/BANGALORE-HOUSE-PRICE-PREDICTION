@@ -2,7 +2,7 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "name": "BANGALORE HOUSE PRICE PREDICTION",
-    "description": "Training and Internship in Data Analytics, Machine Learning and AI using Python conducted by Advitiya IIT Ropar and Diginique TechLabs. Task: To predict real estate prices in Bangalore based on features like location, square footage, and BHK. Implements a Linear Regression model deployed via a Flask web application.",
+    "description": "Machine Learning Internship at IIT ROPAR - Diginique Techlabs. Task: To build a robust regression model capable of predicting property prices in Bangalore with high accuracy. The solution implements Ridge/Lasso regression and a Flask-based web interface for real-time estimation.",
     "identifier": "BANGALORE-HOUSE-PRICE-PREDICTION",
     "license": "https://spdx.org/licenses/MIT.html",
     "programmingLanguage": [
@@ -22,24 +22,26 @@
             "id": "https://orcid.org/0000-0002-1844-9557"
         }
     ],
-    "dateReleased": "2021-08-07",
+    "dateReleased": "2021-07-01",
     "codeRepository": "https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION",
     "developmentStatus": "complete",
-    "applicationCategory": "Data Science / Machine Learning",
+    "applicationCategory": "Machine Learning / Regression",
     "keywords": [
-        "Advitiya IIT Ropar",
-        "Diginique TechLabs",
-        "Data Analytics",
+        "IIT ROPAR",
+        "Diginique Techlabs",
         "Machine Learning",
-        "AI",
-        "Python",
-        "Linear Regression",
-        "Flask",
-        "Real Estate Prediction",
-        "Bangalore"
+        "Regression",
+        "Bangalore Real Estate",
+        "Price Prediction",
+        "Python3",
+        "Pandas",
+        "Numpy",
+        "Matplotlib",
+        "Scikit-learn",
+        "Flask"
     ],
     "relatedLink": [
-        "https://bangalorehousepriceprediction.herokuapp.com",
-        "https://www.youtube.com/watch?v=HaiXYHBPHVg"
+        "http://www.diginique.com/",
+        "https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION"
     ]
 }

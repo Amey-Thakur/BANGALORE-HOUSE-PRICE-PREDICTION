@@ -28,9 +28,9 @@ Submissions include:
 
 ## Implementation Context: Bangalore House Price Prediction
 
-This project consists of an implementation of a Machine Learning model to predict property prices in Bangalore, developed as part of a Training and Internship in Data Analytics, Machine Learning and AI using Python conducted by Advitiya IIT Ropar and Diginique TechLabs.
+This project consists of an implementation of a Multivariate Regression model to predict real estate prices in Bangalore, developed as part of a Machine Learning internship at IIT ROPAR - Diginique Techlabs.
 
--   **Scope Limitation**: This policy applies exclusively to the documentation, code (notebook/app), and datasets contained within this repository and does not extend to the execution environment (Heroku/Python runtime) or third-party libraries (Pandas, Scikit-learn, Flask, etc.).
+-   **Scope Limitation**: This policy applies exclusively to the documentation, code, and datasets contained within this repository and does not extend to the execution environment (Python/Flask runtime) or third-party libraries (Scikit-learn, Pandas, etc.).
 
 ## Technical Integrity Statement
 
