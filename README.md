@@ -66,12 +66,16 @@ The analysis is governed by strict **exploratory and modeling principles** ensur
 
 ### Resources
 
-| # | Resource | Description | Date | Marks |
-| :---: | :--- | :--- | :--- | :--- |
-| 1 | [**Source Code**](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION/tree/main/Source%20Code) | Complete production repository and weights | — | — |
-| 2 | [**Technical Specification**](docs/SPECIFICATION.md) | System architecture and specifications | — | — |
-| 3 | [**Technical Report**](BHPP/AMEY%20THAKUR%20-%20BANGALORE%20HOUSE%20PRICE%20PREDICTION.pdf) | Comprehensive archival project documentation | September 2021 | — |
-| 4 | [**Publication Certificate**](Research%20Paper/IRJET%20-%20Bangalore%20House%20Price%20Prediction.jpg) | Recognition for research excellence | September 2021 | — |
+| # | Resource | Description | Date |
+| :---: | :--- | :--- | :--- |
+| 1 | [**Source Code**](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION/tree/main/Source%20Code) | Complete production repository and weights | — |
+| 2 | [**Technical Specification**](docs/SPECIFICATION.md) | System architecture and specifications | — |
+| 3 | [**Technical Report**](BHPP/AMEY%20THAKUR%20-%20BANGALORE%20HOUSE%20PRICE%20PREDICTION.pdf) | Comprehensive archival project documentation | September 2021 |
+| 4 | [**Publication Certificate**](Research%20Paper/IRJET%20-%20Bangalore%20House%20Price%20Prediction.jpg) | Recognition for research excellence | September 2021 |
+
+> [!TIP]
+> ### Model Retraining & Market Adaptation
+> To maintain prediction accuracy amidst fluctuating real estate markets, it is recommended to periodically retrain the model with updated property datasets. The provided `model_training.py` pipeline supports incremental updates, ensuring the regression coefficients reflect current economic trends and property valuations.
 
 ---
 
