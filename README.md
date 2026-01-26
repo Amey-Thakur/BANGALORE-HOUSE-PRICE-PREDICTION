@@ -10,7 +10,7 @@
 
   A machine learning study demonstrating the application of **Multivariate Regression** algorithms to estimate real estate prices with high precision based on structural parameters.
   
-  **[Source Code](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION/tree/main/Source%20Code)** &nbsp;·&nbsp; **[Project Report](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION/blob/main/IIT%20ROPAR%20-%20Diginique%20Techlabs/Project%20Report.pdf)** &nbsp;·&nbsp; **[Live Demo](http://www.diginique.com/)**
+  **[Source Code](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION/tree/main/Source%20Code)** &nbsp;·&nbsp; **[Project Report](https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION/blob/main/BHPP/AMEY%20THAKUR%20-%20BANGALORE%20HOUSE%20PRICE%20PREDICTION.pdf)** &nbsp;·&nbsp; **[Live Demo](http://www.diginique.com/)**
 
 </div>
 
