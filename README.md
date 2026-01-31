@@ -159,7 +159,7 @@ BANGALORE-HOUSE-PRICE-PREDICTION/
 ├── .gitignore                                       # Repository Filters
 ├── CITATION.cff                                     # Project Citation Metadata
 ├── codemeta.json                                    # Machine-Readable Project Metadata
-├── LICENSE                                          # MIT License Terms
+├── LICENSE                                          # MIT License
 ├── README.md                                        # Project Documentation
 └── SECURITY.md                                      # Security Policy
 ```
