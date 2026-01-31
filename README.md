@@ -157,7 +157,7 @@ BANGALORE-HOUSE-PRICE-PREDICTION/
 │
 ├── .gitattributes                                   # Git configuration
 ├── .gitignore                                       # Repository Filters
-├── CITATION.cff                                     # Scholarly Citation Metadata
+├── CITATION.cff                                     # Project Citation Metadata
 ├── codemeta.json                                    # Machine-Readable Project Metadata
 ├── LICENSE                                          # MIT License Terms
 ├── README.md                                        # Project Documentation
@@ -277,7 +277,7 @@ This project features **Bangalore House Price Prediction**, a machine learning s
 
 ### Acknowledgments
 
-Grateful acknowledgment to [**Mega Satish**](https://github.com/msatmod) for her exceptional collaboration and scholarly partnership during the execution of this machine learning internship task. Her analytical precision, deep understanding of statistical modeling, and constant support were instrumental in refining the predictive algorithms used in this study. Working alongside her was a transformative experience; her thoughtful approach to problem-solving and steady encouragement turned complex regression challenges into meaningful learning moments. This work reflects the growth and insights gained from our side-by-side academic journey. Thank you, Mega, for everything you shared and taught along the way.
+Grateful acknowledgment to [**Mega Satish**](https://github.com/msatmod) for her exceptional collaboration and partnership during the execution of this machine learning internship task. Her analytical precision, deep understanding of statistical modeling, and constant support were instrumental in refining the predictive algorithms used in this study. Working alongside her was a transformative experience; her thoughtful approach to problem-solving and steady encouragement turned complex regression challenges into meaningful learning moments. This work reflects the growth and insights gained from our side-by-side journey. Thank you, Mega, for everything you shared and taught along the way.
 
 Special thanks to the **mentors at IIT ROPAR - Diginique Techlabs** for providing this platform for rapid skill development and industrial exposure.
 
