@@ -306,5 +306,3 @@ Special thanks to the **mentors at IIT ROPAR - Diginique Techlabs** for providin
   *Semester-wise curriculum, laboratories, projects, and academic notes.*
 
 </div>
-
-
