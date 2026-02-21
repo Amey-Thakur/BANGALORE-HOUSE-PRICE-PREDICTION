@@ -229,8 +229,16 @@ Launch the web server to start the prediction application:
 python app.py
 ```
 **Access**: `http://127.0.0.1:5000/`
+  
+> [!TIP]
+> ### Real Estate Analytics Simulation | Multivariate Regression Model
+> 
+> Experience the interactive **Bangalore House Price Prediction** simulation directly in your browser through the working **Hugging Face Space**. This platform features a **Multivariate Regression** model that estimates property prices based on structural parameters, providing a visual demonstration of real estate economics and predictive modeling accuracy.
+>
+> [**Launch Model on Hugging Face**](https://huggingface.co/spaces/ameythakur/Bangalore-House-Price-Prediction)
 
 ---
+
 
 <!-- USAGE GUIDELINES -->
 <a name="usage-guidelines"></a>
