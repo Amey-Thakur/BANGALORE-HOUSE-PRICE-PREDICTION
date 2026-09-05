@@ -1,0 +1,36 @@
+# Bangalore House Price Prediction
+
+> Machine Learning Project to Predict House Prices in Bangalore.
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Co-author: Mega Satish, ORCID 0000-0002-1844-9557
+Institution: Terna Engineering College, University of Mumbai
+Programme: B.E. Computer Engineering
+Licence: CC BY 4.0, attribution required
+Repository created: 7 August 2021
+Work dated: 1 July 2021
+
+## What is in this repository
+
+- BHPP, 3 files
+- IIT ROPAR - Diginique Techlabs, 4 files
+- Mega, 6 files
+- Research Paper, 10 files
+- Screenshots, 3 files
+- Source Code, 3283 files
+- docs, 1 file
+
+## Subject terms
+
+bangalore, data-science, flask, house-price-prediction, huggingface,
+iit-ropar, linear-regression, machine-learning, pandas, python,
+real-estate-analytics, regression, research-paper, scikit-learn,
+streamlit
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION
+- Degree index, every subject and project: https://github.com/Amey-Thakur/COMPUTER-ENGINEERING
+- Project page: https://huggingface.co/spaces/ameythakur/Bangalore-House-Price-Prediction
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/
